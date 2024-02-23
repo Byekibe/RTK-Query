@@ -1,10 +1,10 @@
+## React Flask MySQL RTK Query Project
 
-React Flask MySQL RTK Query Project
 Description:
 
 This project demonstrates a full-stack application using React for the frontend, Flask for the backend, MySQL database for data storage, and RTK Query for efficient data fetching. Users can interact with the React application to access and manage data stored in the MySQL database.
 
-Key Features:
+## Key Features:
 
 Interactive React interface for user interaction.
 Server-side API endpoints built with Flask for data manipulation.
@@ -36,7 +36,7 @@ Edit config.py with your MySQL database credentials.
 Run the application:
 Start the frontend: npm start (or yarn start)
 Start the backend: python app.py
-Access the application: Open http://localhost:3000 in your browser.
+Access the application: Open http://localhost:5173 in your browser.
 Project Structure:
 
 client: React application codebase.
